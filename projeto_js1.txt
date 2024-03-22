@@ -1,0 +1,14 @@
+Uma extensão bastante prática e útil para quem está desenvolvendo sites no Visual Studio Code é o "Live Server". Com essa extensão, você pode criar um servidor local para o seu projeto com facilidade. A principal vantagem é que ela atualiza automaticamente o navegador sempre que você faz alterações nos arquivos HTML, CSS ou JavaScript, proporcionando uma experiência de desenvolvimento mais dinâmica e eficiente.
+
+Além disso, o Live Server é muito fácil de usar. Basta clicar com o botão direito do mouse no arquivo HTML que deseja visualizar e selecionar a opção "Open with Live Server". Isso iniciará o servidor local e abrirá o seu navegador padrão com o projeto em exibição.
+
+Outro ponto positivo é que o Live Server é compatível com várias plataformas, incluindo Windows, macOS e Linux, o que o torna acessível para uma ampla gama de desenvolvedores.
+
+Além disso, a extensão oferece opções de personalização, permitindo que você ajuste configurações como a porta do servidor ou a página inicial.
+
+Em resumo, o Live Server é uma ferramenta essencial para simplificar o processo de desenvolvimento web no Visual Studio Code, proporcionando uma maneira conveniente e eficiente de visualizar e testar seus projetos localmente, com atualizações automáticas sempre que você fizer alterações nos arquivos.
+
+
+
+
+
